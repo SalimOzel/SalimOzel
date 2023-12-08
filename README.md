@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter and Swift**
+- 🌱 I’m currently learning **Nodejs and Nestjs**
 
 - ⚡ Fun fact **I am disciplined**
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=salimozel&layout=compact">

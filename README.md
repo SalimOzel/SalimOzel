@@ -5,6 +5,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
+[Download CV](https://github.com/SalimOzel/Patika/files/13885915/cv.pdf)
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-salimozel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salim-%C3%B6zel-33639b192/)](https://www.linkedin.com/in/salim-%C3%B6zel-33639b192/) 
 [![Gmail Badge](https://img.shields.io/badge/-salimozel123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salimozel123@gmail.com)](mailto:salimozel123@gmail.com) 
 
@@ -24,3 +27,4 @@
 <h3 align="left">Github stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salimozel&show_icons=true&locale=en" alt="salimozel" /></p>
+

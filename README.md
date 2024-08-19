@@ -23,9 +23,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<a href="https:https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/swagger.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://https://mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/13f16b5c-93dc-45ed-b21b-df67b5cd346a" alt="javascript" width="36" height="36"/> </a> 
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/swagger.svg" alt="swagger" width="40" height="40"/> </a> 
+<a href="https://mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 <h3 align="left">Github stats:</h3>
